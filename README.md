@@ -4,7 +4,7 @@
 This project presents an **interactive Power BI dashboard** built on the AdventureWorks dataset. It demonstrates advanced data modeling, DAX calculations, and visualization techniques to deliver actionable insights for business decision-making.  
 
 🔗 **Live Demo / Report**: []  
-🔗 **GitHub Repository**: []  
+🔗 **GitHub Repository**: [https://github.com/Maradani-Ratnakarun/Adventure-works-Sales-Analysis-Dashboard]  
 
 ---
 
@@ -76,10 +76,10 @@ The dashboard was developed to analyze AdventureWorks company data, covering **s
 ## 📷 Screenshots
 
 ### 🏠 Main Dashboard  
-![Main Dashboard Screenshot](screenshots/main-dashboard.png)
+![Main Dashboard Screenshot]()
 
 ### 📊 Drillthrough Dashboard  
-![Drillthrough Dashboard Screenshot](screenshots/drillthrough-dashboard.png)
+![Drillthrough Dashboard Screenshot]()
 
 ---
 
