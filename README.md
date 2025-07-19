@@ -76,7 +76,7 @@ The dashboard was developed to analyze AdventureWorks company data, covering **s
 ## 📷 Screenshots
 
 ### 🏠 Main Dashboard  
-![Main Dashboard Screenshot]()
+![Main Dashboard Screenshot](Home.png)
 
 ### 📊 Drillthrough Dashboard  
 ![Drillthrough Dashboard Screenshot]()
