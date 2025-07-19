@@ -79,7 +79,7 @@ The dashboard was developed to analyze AdventureWorks company data, covering **s
 ![Main Dashboard Screenshot](Home.png)
 
 ### 📊 Drillthrough Dashboard  
-![Drillthrough Dashboard Screenshot]()
+![Drillthrough Dashboard Screenshot](EmployeeDetails.png)
 
 ---
 
@@ -117,6 +117,7 @@ Designed multi-page dashboards with smooth navigation using bookmarks & buttons.
 Enabled employee-level drillthrough analysis for actionable insights.
 
 ✨ Highlights
+
 📌 Connected AdventureWorks database via SQL Server.
 
 📌 Built star schema relationships for optimized performance.
@@ -127,15 +128,11 @@ Enabled employee-level drillthrough analysis for actionable insights.
 
 📌 Created professional and clean visualizations for executive-level reporting.
 
-🔗 Useful Links
-AdventureWorks Database Docs
-
-Power BI Official Docs
 
 📣 Author
 👤 Your Name
 📧 your.email@example.com
-🔗 LinkedIn Profile
-🔗 GitHub Profile
+🔗 [https://www.linkedin.com/in/maradani-ratnakarun-783534331/]
+🔗 
 
 
