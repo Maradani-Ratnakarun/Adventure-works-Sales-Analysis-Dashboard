@@ -130,9 +130,13 @@ Enabled employee-level drillthrough analysis for actionable insights.
 
 
 📣 Author
-👤 Your Name
+
+👤 Maradani Ratnakarun
+
 📧 [mailto:maradaniratnakarun@mail.com]
+
 🔗 [https://www.linkedin.com/in/maradani-ratnakarun-783534331/]
+
 🔗 [https://github.com/Maradani-Ratnakarun]
 
 
